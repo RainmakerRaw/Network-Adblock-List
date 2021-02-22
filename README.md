@@ -2,6 +2,6 @@ A small but flexible ABP format (Pi-Hole, AdGuard Home, uBO) blocklist for netwo
 
 Mostly it tidies up and catches a few subdomains missed by the main list. For example, the main OISD list has almost 200 entries each for various subdomains of doubleclick, firebase and so on. This list simplifies things and just blocks them outright with, for example, `||*firebase*^` and `||*doubleclick*^`. It also blanket-bans `||*analytics*^`, `||*metrics*^` and `||*telemetry*^`. In doing so, catches a few domains missed by the main OISD list, like `||client-telemetry.roblox.com`.  
 
-I have found that, in daily use on a moderate home network, over 80 to 90% of my DNS blocks are from this small list alone. Please use this list however you wish. If there are any questions or problems, just open an [Issue](https://github.com/RainmakerRaw/Network-Adblock-List/issues) or fork. 
+I have found that, in daily use on a moderate home network (~75,000 queries per day), a majority of my DNS blocks are from this small list alone most of the time. Please use this list however you wish. If there are any questions or problems, just open an [Issue](https://github.com/RainmakerRaw/Network-Adblock-List/issues) or fork. 
 
 Thanks!
