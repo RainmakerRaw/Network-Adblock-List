@@ -13,8 +13,9 @@
 ||*metrics*^$important
 ||*metrix*^$important
 ||onelink.*^$important
-||*scorecardresearch*^$important
+||scorecardresearch.*^$important
 ||services.gfe.nvidia.com^$important
 ||*smoot-feedback*^$important
 ||*telemetry*^$important
+||track.atom-data.io^$important
 ||track.synology.com^$important
