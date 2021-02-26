@@ -13,8 +13,11 @@
 ||*isnssdk*^$important
 ||*metrics*^$important
 ||*metrix*^$important
-||onelink.*^$important
-||scorecardresearch.*^$important
+||*onelink*^$important
+||*scorecardresearch*^$important
+||sentry.io^$important
+||sentry.fivem.net^$important
+||sentry.medal.tv^$important
 ||services.gfe.nvidia.com^$important
 ||*smoot-feedback*^$important
 ||*telemetry*^$important
