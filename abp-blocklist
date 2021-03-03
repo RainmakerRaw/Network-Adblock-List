@@ -23,3 +23,10 @@
 ||*telemetry*^$important
 ||track.atom-data.io^$important
 ||track.synology.com^$important
+### NextDNS blocked entries (testing)
+||c.evidon.com^$important
+||js.hs-scripts.com^$important
+||lptag.liveperson.net^$important
+||libertyglobalpaneu.tt.omtrdc.net^$important
+||s0.2mdn.net^$important
+||tags.tiqcdn.com^$important
