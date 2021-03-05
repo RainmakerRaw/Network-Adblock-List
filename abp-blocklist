@@ -20,6 +20,7 @@
 ||sentry.medal.tv^$important
 ||services.gfe.nvidia.com^$important
 ||*smoot-feedback*^$important
+||stats.paypal.com^$important
 ||*telemetry*^$important
 ||track.atom-data.io^$important
 ||track.synology.com^$important
@@ -30,3 +31,7 @@
 ||libertyglobalpaneu.tt.omtrdc.net^$important
 ||s0.2mdn.net^$important
 ||tags.tiqcdn.com^$important
+# Akamai DNS / EDNS checker
+||akahelp.net^$important
+||whoami.akamai.com^$important
+||whoami.akamai.net^$important
