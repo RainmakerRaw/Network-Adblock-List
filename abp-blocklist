@@ -28,5 +28,4 @@
 ||tags.tiqcdn.com^$important
 ### Akamai DNS / EDNS checker
 ||akahelp.net^$important
-||whoami.akamai.com^$important
-||whoami.akamai.net^$important
+||whoami.akamai.*^$important
