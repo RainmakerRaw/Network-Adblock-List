@@ -27,7 +27,7 @@
 ||js.hs-scripts.com^$important
 ||s0.2mdn.net^$important
 ||tags.tiqcdn.com^$important
-# Akamai DNS / EDNS checker
+### Akamai DNS / EDNS checker
 ||akahelp.net^$important
 ||whoami.akamai.com^$important
 ||whoami.akamai.net^$important
