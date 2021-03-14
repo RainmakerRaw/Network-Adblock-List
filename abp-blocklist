@@ -16,19 +16,15 @@
 ||*onelink*^$important
 ||*scorecardresearch*^$important
 ||sentry.io^$important
-||sentry.fivem.net^$important
-||sentry.medal.tv^$important
+||sentry.*^$important
 ||services.gfe.nvidia.com^$important
 ||*smoot-feedback*^$important
 ||stats.paypal.com^$important
 ||*telemetry*^$important
-||track.atom-data.io^$important
-||track.synology.com^$important
+||track.*^$important
 ### NextDNS blocked entries (testing)
 ||c.evidon.com^$important
 ||js.hs-scripts.com^$important
-||lptag.liveperson.net^$important
-||libertyglobalpaneu.tt.omtrdc.net^$important
 ||s0.2mdn.net^$important
 ||tags.tiqcdn.com^$important
 # Akamai DNS / EDNS checker
